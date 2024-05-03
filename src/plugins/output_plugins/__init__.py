@@ -1,0 +1,1 @@
+# Plugins for data output, applying the Command pattern.
